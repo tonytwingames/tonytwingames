@@ -1,0 +1,57 @@
+{
+    "Version": 2,
+
+    "AppsList-Android": [ 
+        {
+            
+            "AppTitle": "Wild Dino Attack City Simulator",
+            "IconUrl": "https://lh3.googleusercontent.com/Hx3Wz-iARUTWOSJ18wCob16sETLOExkCRW-Fs5WpSaw0Pqd5YcmeBVpJYxMrcTL8Sk-y1iOgSCxjEi540U3qIIOntwVdD9nHSSoEIzJSm6Wat1VxQ6rBb14lNoTdQr7lm65L2eszBK0Gdyy1Jf-z1yxjOihKerWumpnsGg_EsYFFFSbW8KvB5zCOU0u9FQ7WJ-XYV6k2IYliF_I1Njt_w09HvZD3TBZzLddZ7aznPur7js37afJ_5mpoNYRPkkm9RqBPhYFiHgo2Cs3XaVOdAGSLHa7TJRcLhTwCogrPiRBjQqo_vUw0w9NFPRnE5rikwUcuXu9uSC9-hn6ruvSDuFdXigKwcd6defPlLb_awo4BPAzJP-utFYqj5mSSki597wOmOjSMbVUiaDh_Zbn9si1iTOT-V85bxPF9VE90uLMGDMRC2T2AI4_oG8b9SjrdDtHUN7SjJZSTNYVDA5iFdAV6l_gn0tEFkknBU30cdT6rZ0yF7tAqQzcSce98Ben_VXU3a_bFnTYxE8Q6DxxxPo01LkHvAMcJTW_M0yR1Y5-aWdw521FIPirKCu1UwCcgl17ZxZWZo6690v4Ii1FszcGBT4xH_bD1UagikDENxqtt1gyljIXMiVT6E6zZrWVH-HSVF0frrokaHrr_a41YRoaTaBpCd-YBmGXQB_wV19Z8XdshDHdr5AYQHB4qluulOkw7k5jK9M15aIv2EQ_QQkg=w353-h627-no",
+            "Id": "com.gt.wildattack.dinosaurcity.deadlydino.huntercity"
+        }
+        ,
+        {
+            
+            "AppTitle": "Angry Gorilla Rampage Attack",
+            "IconUrl": "https://lh3.googleusercontent.com/1qZy9E8R7ka7mHTuhWFk_bDAmD_Z26sPJ2quSw_agZyEtWCxvLnsfqhBT59p2yWNHdywEqKYbCGr1hWlLPZCekxNIwkRkC49E2H4iYl8FTHhLAlGKzy_EuCkZ3qCazrskPBd3sGLtD9MMFGz6kgFY4tyEZALL0oNkjf79jLiDbByDbq1za_8YlEJb-QhsHcFXAjlQEjPqhQaoPOyJkSc_ITTqbXV5ue-YApCzpljOaaLLGd_HozyK04_RDyRW-RPBf535hgHSAJXnzDrJbKfWudQsOnaClZXqWOrkDwn5FR5a6sE20jtxl1oFCmcgoRB65Tk2RWRC58ONUFe214cK6ZggntKtg7GmITGS1BLCd9T7buMYioq9yxIFjRK9hUTIFXfiuIz_i__gdnBgIQnhRFZjj5W_lwm0xFUDfkoIvG6t20iM7tEaKRl5C2MbLijZtRV1NcvF8E-O9Z-nvSph2jyqNOBwSpzbWeBKKpidfaPoOQWbQrUrl6AQX3YrGEWZjwX3qvl07dFk9jNLOBIMpBsLOe0m-wz-VmMtfADP04iiQI_Ppuu6U8tGx1rLCNzaPpCCXYTKinXi73mk7J0he0zcO6eLDf0gqIyLAIBoj8ecevLRPmM0IbcJyDquVCPKfhyde6sKmKTBc3NzXiqGRtP4agEXeuMkluf16I8eUGD4NRUsXoOewH_jC33bD-1qyZjpKd8TsddSrpP9gF2nAU=w353-h627-no",
+            "Id": "com.gt.wildgorilla.attackcity.animalhunting"
+        } ,
+        {
+            
+            "AppTitle": "Scary Clown Horror House Escape",
+            "IconUrl": "https://lh3.googleusercontent.com/VHbxVMOWHbonF9-MzSO9hIZ0t-RjBc9lFE8iRh_h4eElcL1YTBP0Un50m7Vn2eI8f107YLOyoZXmhucsOBmxJKzmI9dD22bAuHIB5r7JZJDP5RtxKIWUtj1MzCiKC5Ewl7pqkOoRLX7mV_KzarPtzO8mxqeM15VumK-dlMdrW2Qlz0C0aR_aUGFIlqbCtXA0ookl4JKVclD131OXEntYlVSRzaHooVzJ6yaNwE-8y21l0-tGJSE90t3uAc1l62MvP1qqWM0WXB18Ha3EIpuSHwfTvOmOHCH_jVF-m9B9iRj0kinVDNccByP_Dhfou9wgP4LvstKl3eqVNVquZRS7DUO1DyDWLxZjEMp9Mc8lOZSo73WTeEodN5MobeTW_DuFzChtu1FtS_D1G01XVLjRg4wvzGuVm2La0y8rcV3N0iyHyQ_dtSECPPVY97KulplBIfupcbGeUbVB__9Yf9TiY3qhClvYC-gW1oweDoZSX5MMn321M3Vyaolxu8nB7T3nXgkZf8dpJgavHkazuNVRadEqqrk8AWXiYI1W4cPpgVp1RisTS4akIvIC9Xf3JcpnOj9mUcn500YJOvSrd2r8LQbUb68XSzGaTzfKRJA6Rf-y5ukS9UWWFQh-EHBDHKrOh-ggJ4TLcF9XVam4KVjLKCn2CZxgz3FJWLfE1L6Tusk--pB0N4mVMeVG1U1c5p_2zVrUNwhfeRluTmuY_9D2dJg=w353-h627-no",
+            "Id": "com.gt.cityattackgames.horrorgames.horrorclown"
+        },
+        {
+            
+            "AppTitle": "Green Hero Stickman Criminal Mafia",
+            "IconUrl": "https://lh3.googleusercontent.com/K1bdoHbU67svA-_ssIWuB_dZC7GTDdXo1rLK9a5_ee9KJjRRc0OvAgc5GOILHsyKnLPZS-fyDMbr3TBwknnRYMmomLJnI16CE88U7koLRGkkDKrWd4qwxfsVoySkYgn0iG78I7Ny9GM02mDSgz9rvrmuoS3tCgnK_OHkVTXJ98zj2_16GWoM0sSd3ee_KhU-QrMXoWVhsqizaxSUV_XvBZG9p0iWfcxTBZAZ0btMXfg4bPQjzIvkDXaxMr4AME0P3QcRqYCsYo6EsQlZHP_hQumRkPcJBgQ4Pi83xNobLh6YwjcMXrERAl1u8pTC0adbhOvUCOw1kwHhBc0sasOLZXAJ5Igrc99F7LB595qad1hmm8AiBkqF5f7myqnzeINjua8Og2lyS-PqofaQcCET2WdHDlOJ79a-Qr38NqfrlR9YhMPEC_NFZHUBSsDMMv0Eo5pahOfQIWp97JR10EgBNpfImb77phoJbsKjzSattTZB97HcExmhRCPJ2KfP9rXIYZSns5KBllKUr3AN3zuZ5Zpy7YUA5bEYuK0UcsRnTBtOmXkwGLnAP-1grYBEV0MzhBTD3jRMgwVoKmTTULCDv1d6cqsrUA4VVjiVGf-d5KvVb5hckQc8ki8ELjJVc0YJr1SvfPCpvQ9F60nh_oR7iMiyjcQnBZqOVIS7pmlJyflOAhfezXcBnHU0xdol2YjMF9woJUG7WmuqoooVJHNRkbw=w282-h502-no",
+            "Id": "com.gt.stickmangangster.greenstickman.criminalcity"
+        },
+        {
+            
+            "AppTitle": "Stickman Gangster Mafia Criminal",
+            "IconUrl": "https://lh3.googleusercontent.com/pL93d_nrSQSPU2Uu1hpHf38BNqlD4Dj7_EfzeUerX6K6_poGWT2WNTnW0bPABnYhFA5Qnokb6sdFM5OWT2dRRqcocLOvAOHKPIq2sXNv-6KiM4ntCcCK3ES3LESVsmdE7rncMhDNkdPpfxhB1gajFiNsd1zY_zbwDrfV-8uwAp3SZu2PDbe48LUqDvST-H4P4cpOY_az0LPuY8DbuHkcW7tUU_mySZrgcXYCkwCPfI3U4hHcRAC_KDsEwD_Sy3WXi7Nbrj5lc5mO2uco4TSsrdY-euiN7UX8UPEkn_01Xo4rq4XOME-h-TBT3KYua7odkqW-Q4BQc4C8l1voeuSAt9QtSjcDPFbKyTWXFRfU-cf8aIKF3ErJ_mjpTbxs1LjpYad872lTvCIBULq3UwNEju6z4FE9U0V2-aNlGXx6-DEoU7lCQKRjYzGU40wtkwGPviRjtYcdIhhHqS3fEESEgUBTEAXlAia9oVY33vOfRLGTpmLIWVh0ty-qIq5RIj1clg7Bs6xtal7pGXXvJOo8SBqwuHUfoE8rlWya12HQN71hgFJfLhU39niIarMxjJRWlxD8AII_2Jroy5VhrIxyQ-FPAjZMv3e8kxepoXcQtUxCHSXdAuZMyc4OCFNId05qp3FIs_MaiBeZ9tDdxXrI_mqn6GLkTWgEfygcqY6VmtMWUTLsd6LNdx2jI8BJ2nOG9fOq_HLaK_0EtxUk4ENpjaY=w282-h502-no",
+            "Id": "com.gt.criminalcity.crimegangster.realgangster"
+        }
+        ,
+        {
+            
+            "AppTitle": "Offroad Horse Taxi Cab Driver",
+            "IconUrl": "https://lh3.googleusercontent.com/6VWjMMDr0uUmlMB7Q9gEdOfpyXdD9R0XaW5eisnqPphQ_CihTniY4gfNJjf1wck68GvxhwbDH7mUbir60EUIgkVQBWdtFDI87VB1fN9Vxklp-uxd7_gKcSc0HBYJ3Hf8rj2Tbp48RDhRN-xIGDn067bebC-mW4NTrOboQ7PfPTnOMdrLLki8bBDcnSsuK4J7AC42jcGEha6u5o6uf_GSSJ8m1wsVm2Lj0RtT1fopITCk2p9BLMZOFTbnKOCSIEDJyOKX-V_HpWQYCsN-DPZdKqaq_gNTaX1Mu1xOsvLiouGsR52aiBmNyHt0-aAixGGBKlsn3lPwT5PhJ3lPWMWbxQIEVYvUkkno370WzTSnOinsv1u1Qkeh91bz9GhifFBOBUS_MlnXUjis_jA-lL1H-4W5SKhvHRVYoAoXKSkOWEVbaY2uM48sHVv0Ouc-Lc3PtXsfG_erpOMrWb9nc_RC5lXWdgnzJivjWGHblAfH6iHzZ_WoRHlyl9XmbSpPzVgv66UrP4ldLgXxWQEu8ZMg4fePQh8_PYvEIwaKEBKZdrRYdbqfUBZ5ikoipLqlvxMDvekSxqJ3p5apO0fDt5XU10D6OnMd5C-X4B7lCDqzdqbsQo4GJ8DGkji5aYsuHbJZ8KAeEEencxIWiwBj9hKwaWFpwFfzhxfIHxEiYBfObJIpPalhPInL5xOziQxq2hkwFtP4qUAggCeMJGx2JuaRlSI=w282-h502-no",
+            "Id": "com.gt.offroaddriving.horseriding.taxigames"
+        },
+        {
+            
+            "AppTitle": "Prison Stickman Escape Jail Survival",
+            "IconUrl": "https://lh3.googleusercontent.com/9lNCw4hO64HUHtS3pU9x4vFcvApKR-rjXsEKNKxrl1Xh_l-R1XGbJ_iYDfTULDfM4r1GWn5dBCd21bm61F0fm9dxMpWTpqIPKmg-FBUAiz65DLFY2odWBdlLlMdPTe9ed6oSOPAvfHsfQYnWKtIXON34TEa3K5_ki9LD4k23jpC8lE6k46XOc1yclemAi8Tc8ygh-Tu36x_kL-bZKXFcF5gfQSKKPCw3Y6bwLPLnE0ohhKz-oBzZBbc62kyk7zKFuelKLx0lXnZ44ihg5iUP7saTkenp8qbXwH5RjotWzSM3F-g9tMPx1Igz4ddCcUCfyoCQSY7oTjL7_w4PYKe-SM_TpdbDAvfzky8BYFe159uH7TU-79gs-VIs-vXNBuV9y3Nv2ldnM70bkkjAozq95f9WoW2r4V-P9LRFPlpUGeKXH8U3UJ40UFQDxG2NkqweZbVUM1prIl4RD4FunOhZH8jCEmCHjKfWHcXCtXNjovqVFkIZEBKgeu2Dx4IL47SGzM7ZMlOHAylJDuXHfvH2pyWzY2hc_w8igDaw8_WIeNeHKMa9K3gwgJxqUyprhah6ApeZ5uZJt6P0BACSr4bpvRa7SzuaMIQgGSpkG0tLUu1ixj4rNoly1-9JZlNUyfOUloJoLW9OclvTHIk1UPWvWRGBCEdLGkxyvNP5aZ_bbossyd2Q8LsUlJ_-CsSt9IMVXf_ZbejSdkpC43pEInKi4FJ2=w353-h627-no",
+            "Id": "com.gt.survivalmission.escapegames.prisonescape"
+        }
+    ],
+
+    "AppsList-iOS": [
+            {
+            "AppTitle": "",
+            "IconUrl": "",
+            "Id": ""}
+    ]
+}
