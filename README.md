@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonytwingames
 - 👀 I’m interested in Fuck your ass honey
-- 🌱 I’m currently learning How to fuck you hard as a hell
+- 🌱 I’m currently preparing to fuck you hard as a hell
 - 💞️ I’m looking to collaborate with your fucking pussy
 - 📫 How to reach me in your mind
 Go Fuck Your Mum MatherFucker
